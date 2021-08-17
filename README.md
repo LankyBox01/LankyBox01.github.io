@@ -7,4 +7,3 @@ If you would like to contribute to this repository, then feel free to create a p
 This repository was helped by many people to become as it is now! So, here they are:
 - Thanks to LankyBox01 for coding the entire website & styling the webpage using CSS.
 - Thanks to gosoccerboy5 for contributing with Javascript.
-- Thanks to Leahcimto for the https://lankybox01.leahcimto.com/ domain.
